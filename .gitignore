@@ -1,0 +1,11 @@
+.env
+alembic.ini
+dump.rdb
+wsgi_new.py
+collections/
+alembic/
+logs/
+ton_keystore/
+scripts/
+tests/
+/**/__pycache__/
